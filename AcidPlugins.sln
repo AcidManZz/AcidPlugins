@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcidPlugin", "AcidPlugin\AcidPlugin.csproj", "{994D80FF-52BF-41FC-A611-59C5FDB8A3C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{994D80FF-52BF-41FC-A611-59C5FDB8A3C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{994D80FF-52BF-41FC-A611-59C5FDB8A3C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{994D80FF-52BF-41FC-A611-59C5FDB8A3C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{994D80FF-52BF-41FC-A611-59C5FDB8A3C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08BA6D1F-B4A9-4FF5-82C6-308955C88FB2}
+	EndGlobalSection
+EndGlobal
